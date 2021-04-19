@@ -1,0 +1,31 @@
+## This is a h2 header
+
+#### This is a h4 header
+
+![查看另一个文件请点击这里](https://github.com/xia-yulong/PETask/blob/main/README.md)
+
+![这是吉大官网](https://www.jlu.edu.cn/)
+
+## 这是网页图片
+
+![](https://img2.baidu.com/it/u=3024878745,545382191&fm=26&fmt=auto&gp=0.jpg)
+
+![这是本地图片地址](https://github.com/xia-yulong/PETask/blob/main/d15b95abf74e1fe910af974ae188b7bf.png)
+
+```C++
+cout<<"jlu ccst"<<endl;
+```
+
+
+> 这是一个引用
+
+
+- 数据结构
+- 计算机组成原理
+- 操作系统
+
+
+
+1. 408
+2. 935
+3. ~^-^~
