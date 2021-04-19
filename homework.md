@@ -10,7 +10,6 @@
 
 ![](https://img2.baidu.com/it/u=3024878745,545382191&fm=26&fmt=auto&gp=0.jpg)
 
-![这是本地图片地址](https://github.com/xia-yulong/PETask/blob/main/d15b95abf74e1fe910af974ae188b7bf.png)
 
 ```C++
 cout<<"jlu ccst"<<endl;
